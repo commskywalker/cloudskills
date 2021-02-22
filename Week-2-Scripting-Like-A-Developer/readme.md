@@ -84,4 +84,4 @@ Both the PoweShell and Python code have unit tests available to ensure that the 
 The tests can be found in the `PowerShell` and `Python` directories.
 
 ## Contributors
-1. Saulo Ferreira
+1. Saulo Ferreira (commskywalker)
